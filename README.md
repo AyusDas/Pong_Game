@@ -1,2 +1,2 @@
-# Pong_Game
- a game using pyraylib
+# Learning_raylibpy
+ learning a python binding for the a c library raylib
